@@ -80,9 +80,10 @@
 .header__link {
   color: #2f80ed;
   text-decoration: none;
-
 }
-
+.header__link:hover {
+  text-decoration: underline;
+}
 .content {
   /* position: relative; */
   display: flex;
