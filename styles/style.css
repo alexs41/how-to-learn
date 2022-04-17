@@ -104,8 +104,6 @@
   padding-top: 100px;
   display: flex;
   justify-content: center;
-  /* position: absolute; */
-  border: 1px dotted red;
 }
 
 .two-columns {
@@ -163,8 +161,6 @@
   display: flexbox;
   flex-direction: column;
   justify-content: center;
-  /* position: absolute;  */
-  border: 1px dotted red;
   padding-top: 100px;
 }
 
@@ -228,7 +224,7 @@
   background-color: #f2f2f2;
   background-repeat: no-repeat;
   background-position: left bottom;
-  height: 890px;
+  min-height: 890px;
   position: relative;
 
 }
