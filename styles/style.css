@@ -101,11 +101,11 @@
 }
 
 .description {
-  margin-top: 100px;
-  margin-bottom: 100px;
+  padding-top: 100px;
   display: flex;
   justify-content: center;
   /* position: absolute; */
+  border: 1px dotted red;
 }
 
 .two-columns {
@@ -164,6 +164,8 @@
   flex-direction: column;
   justify-content: center;
   /* position: absolute;  */
+  border: 1px dotted red;
+  padding-top: 100px;
 }
 
 .section-title {
@@ -172,7 +174,6 @@
   font-size: 60px;
   font-weight: bold;
   margin: auto;
-  margin-top: 100px;
   width: 60%;
 }
 
@@ -197,7 +198,7 @@
   margin-right: auto;
   width: 1100px;
   z-index: 2;
-
+  padding-left: 0;
 }
 
 
@@ -279,6 +280,7 @@
 }
 
 .section-title_theme_dark {
+  margin-top: 90px;
   color: white;
   position: relative;
   z-index: 2;
