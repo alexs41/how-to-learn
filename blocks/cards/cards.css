@@ -1,0 +1,11 @@
+.cards {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: start;
+    margin: 0 auto 0 auto;
+    width: 920px;
+    z-index: 2;
+    padding-left: 0;
+    /* border: red 1px dotted; */
+}

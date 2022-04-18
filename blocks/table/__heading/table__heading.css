@@ -1,0 +1,8 @@
+.table__heading {
+    line-height: 1.15;
+    font-size: 24px;
+    font-weight: bold;
+    /* border: 1px dotted red; */
+    margin: 0;
+    z-index: 2;
+  }

@@ -1,0 +1,6 @@
+.table__cell {
+    width: 250px;
+    /* border: 1px dotted red; */
+    margin-top: 60px;
+    list-style-type: none;
+  }
