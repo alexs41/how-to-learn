@@ -12,6 +12,5 @@
     /* border: red 1px dotted; */
 }
 .khan__buy-link:hover {
-    text-decoration: underline;
     opacity: .5;
 }
