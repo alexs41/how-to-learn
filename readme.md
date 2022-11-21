@@ -8,4 +8,6 @@
 - встраиваемые элементы (видео, iframe)
 - анимации и трансформации
 
+[ссылка на проект how-to-learn](https://alexs41.github.io/how-to-learn/index.html "How to Learn")
+
 Исполнитель **Кайгородов Александр** 
