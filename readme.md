@@ -3,7 +3,7 @@
 
 Демонстрационный сайт. Предназначен для обучения веб-разработке в процессе создания данного проекта.
 
-## Стек технологий:
+### Стек технологий:
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)
 ---
@@ -14,7 +14,7 @@
 - анимации и трансформации
 ---
 
-## Инструкция по установке:
+### Инструкция по установке:
 1. Клонировать репозиторий
 `git clone https://github.com/alexs41/how-to-learn.git`
 2. Открыть файл index.html
